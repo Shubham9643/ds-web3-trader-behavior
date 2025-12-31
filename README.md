@@ -18,6 +18,17 @@ quality** are influenced by market emotion and to extract insights that can supp
 ---
 
 ## 📂 Datasets Used
+ds_Shubham_Sharma/
+├── notebook_1.ipynb
+├── csv_files/
+│ ├── cleaned_trades.csv
+│ ├── sentiment_merged.csv
+├── outputs/
+│ ├── pnl_vs_sentiment.png
+│ ├── winrate_fear_vs_greed.png
+│ ├── volume_by_sentiment.png
+├── ds_report.pdf
+└── README.md
 
 ### 1. Historical Trader Execution Data
 Key columns:
