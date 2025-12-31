@@ -1,3 +1,43 @@
+# Trader Behavior vs Market Sentiment (Fear & Greed)
+
+**Candidate:** Shubham Sharma  
+**Role:** Data Science – Web3 Trading Team  
+
+---
+
+## 📌 Project Overview
+
+This project analyzes how trader behavior changes under different Bitcoin market
+sentiment regimes — **Fear** and **Greed** — using real historical execution data
+from Hyperliquid.
+
+The objective is to understand how **profitability, trade exposure, and execution
+quality** are influenced by market emotion and to extract insights that can support
+**risk-aware trading strategies** in crypto markets.
+
+---
+
+## 📂 Datasets Used
+
+### 1. Historical Trader Execution Data
+Key columns:
+- `Timestamp IST`
+- `execution price`
+- `size`
+- `side`
+- `closedPnL`
+
+### 2. Bitcoin Market Sentiment Dataset
+Columns:
+- `Date`
+- `Classification` (Fear / Greed)
+
+Trade executions were aligned with daily market sentiment using the execution date.
+
+---
+
+## 🗂️ Folder Structure
+
 
 ---
 
